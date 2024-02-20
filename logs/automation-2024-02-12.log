@@ -1,0 +1,62 @@
+21:40:31.457 [main] INFO  testCase.TestCase01 - Scroll up to the top of the upcoming bikes page
+21:40:34.503 [main] INFO  testCase.TestCase01 - Select Used Car header
+21:40:38.111 [main] INFO  testCase.TestCase01 - Click on Chennai from Used Car drop down
+21:40:47.291 [main] INFO  testCase.TestCase01 - Select all the CheckBoxes under the Popular Models 
+21:40:52.104 [main] INFO  testCase.TestCase01 - *****  Finished TestCase03  *****
+21:40:52.825 [main] INFO  testCase.TestCase01 - *****  Starting  TestCase04  *****
+21:40:52.892 [main] INFO  testCase.TestCase01 - Click on ZigWheels Logo
+21:40:57.359 [main] INFO  testCase.TestCase01 - Click on Login Button
+21:40:59.726 [main] INFO  testCase.TestCase01 - Click on Google
+21:41:00.702 [main] INFO  testCase.TestCase01 - Now switch to child window
+21:41:01.496 [main] INFO  testCase.TestCase01 - *****  Finished TestCase04 *****
+21:41:03.272 [main] INFO  testCase.TestCase01 - *****  Starting TestCase05 *****
+21:41:03.315 [main] INFO  testCase.TestCase01 - Send random emails into emailinputbox
+21:41:06.991 [main] INFO  testCase.TestCase01 - click on next button
+21:41:13.249 [main] INFO  testCase.TestCase01 - Capturing the error message
+21:41:13.600 [main] INFO  testCase.TestCase01 - *****  Finished TestCase05 *****
+22:14:17.053 [main] INFO  testCase.TestCase01 - *****  Starting TestCase01  *****
+22:14:18.127 [main] INFO  testCase.TestCase01 - Go to New Bikes Header
+22:14:22.628 [main] INFO  testCase.TestCase01 - Go to Upcoming Bikes
+22:14:23.578 [main] INFO  testCase.TestCase01 - *****  Finished TestCase01  *****
+22:14:24.152 [main] INFO  testCase.TestCase01 - *****  Starting TestCase02  *****
+22:14:24.801 [main] INFO  testCase.TestCase01 - Selecting Honda from Manufacturer Drop Down
+22:14:35.382 [main] INFO  testCase.TestCase01 - *****  Starting TestCase03  *****
+22:14:38.423 [main] INFO  testCase.TestCase01 - Scroll up to the top of the upcoming bikes page
+22:14:41.478 [main] INFO  testCase.TestCase01 - Select Used Car header
+22:14:45.251 [main] INFO  testCase.TestCase01 - Click on Chennai from Used Car drop down
+22:14:52.961 [main] INFO  testCase.TestCase01 - Select all the CheckBoxes under the Popular Models 
+22:14:57.075 [main] INFO  testCase.TestCase01 - *****  Finished TestCase03  *****
+22:14:57.581 [main] INFO  testCase.TestCase01 - *****  Starting  TestCase04  *****
+22:14:57.609 [main] INFO  testCase.TestCase01 - Click on ZigWheels Logo
+22:15:01.206 [main] INFO  testCase.TestCase01 - Click on Login Button
+22:15:03.741 [main] INFO  testCase.TestCase01 - Click on Google
+22:15:04.643 [main] INFO  testCase.TestCase01 - Now switch to child window
+22:15:04.685 [main] INFO  testCase.TestCase01 - *****  Finished TestCase04 *****
+22:15:06.739 [main] INFO  testCase.TestCase01 - *****  Starting TestCase05 *****
+22:15:06.775 [main] INFO  testCase.TestCase01 - Send random emails into emailinputbox
+22:15:10.237 [main] INFO  testCase.TestCase01 - click on next button
+22:15:16.307 [main] INFO  testCase.TestCase01 - Capturing the error message
+22:15:16.579 [main] INFO  testCase.TestCase01 - *****  Finished TestCase05 *****
+22:18:34.552 [main] INFO  testCase.TestCase01 - *****  Starting TestCase01  *****
+22:18:38.649 [main] INFO  testCase.TestCase01 - Go to New Bikes Header
+22:18:43.330 [main] INFO  testCase.TestCase01 - Go to Upcoming Bikes
+22:18:45.511 [main] INFO  testCase.TestCase01 - *****  Finished TestCase01  *****
+22:18:47.509 [main] INFO  testCase.TestCase01 - *****  Starting TestCase02  *****
+22:18:50.045 [main] INFO  testCase.TestCase01 - Selecting Honda from Manufacturer Drop Down
+22:18:52.282 [main] INFO  testCase.TestCase01 - Click on ViewMore Button
+22:18:58.025 [main] INFO  testCase.TestCase01 - Get all bike details under 4 lakhs
+22:19:20.950 [main] INFO  testCase.TestCase01 - *****  Finished TestCase02  *****
+22:19:21.554 [main] INFO  testCase.TestCase01 - *****  Starting TestCase03  *****
+22:19:24.570 [main] INFO  testCase.TestCase01 - Scroll up to the top of the upcoming bikes page
+22:19:27.689 [main] INFO  testCase.TestCase01 - Select Used Car header
+22:20:34.648 [main] INFO  testCase.TestCase01 - *****  Starting TestCase01  *****
+22:20:36.072 [main] INFO  testCase.TestCase01 - Go to New Bikes Header
+22:20:39.084 [main] INFO  testCase.TestCase01 - Go to Upcoming Bikes
+22:20:41.146 [main] INFO  testCase.TestCase01 - *****  Finished TestCase01  *****
+22:20:41.941 [main] INFO  testCase.TestCase01 - *****  Starting TestCase02  *****
+22:20:42.507 [main] INFO  testCase.TestCase01 - Selecting Honda from Manufacturer Drop Down
+22:20:44.715 [main] INFO  testCase.TestCase01 - Click on ViewMore Button
+22:20:48.897 [main] INFO  testCase.TestCase01 - Get all bike details under 4 lakhs
+22:20:56.622 [main] INFO  testCase.TestCase01 - *****  Finished TestCase02  *****
+22:20:57.039 [main] INFO  testCase.TestCase01 - *****  Starting TestCase03  *****
+22:21:00.050 [main] INFO  testCase.TestCase01 - Scroll up to the top of the upcoming bikes page

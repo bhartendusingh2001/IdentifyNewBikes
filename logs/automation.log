@@ -1,0 +1,25 @@
+21:52:08.924 [main] INFO  testCase.TestCase01 - Go to New Bikes Header
+21:52:12.602 [main] INFO  testCase.TestCase01 - Go to Upcoming Bikes
+21:52:14.660 [main] INFO  testCase.TestCase01 - *****  Finished TestCase01  *****
+21:52:15.111 [main] INFO  testCase.TestCase01 - *****  Starting TestCase02  *****
+21:52:15.632 [main] INFO  testCase.TestCase01 - Selecting Honda from Manufacturer Drop Down
+21:52:17.295 [main] INFO  testCase.TestCase01 - Click on ViewMore Button
+21:52:21.326 [main] INFO  testCase.TestCase01 - Get all bike details under 4 lakhs
+21:52:28.561 [main] INFO  testCase.TestCase01 - *****  Finished TestCase02  *****
+21:52:29.071 [main] INFO  testCase.TestCase01 - *****  Starting TestCase03  *****
+21:52:32.078 [main] INFO  testCase.TestCase01 - Scroll up to the top of the upcoming bikes page
+21:52:35.103 [main] INFO  testCase.TestCase01 - Select Used Car header
+21:52:38.498 [main] INFO  testCase.TestCase01 - Click on Chennai from Used Car drop down
+21:52:43.053 [main] INFO  testCase.TestCase01 - Select all the CheckBoxes under the Popular Models 
+21:52:44.520 [main] INFO  testCase.TestCase01 - *****  Finished TestCase03  *****
+21:52:44.907 [main] INFO  testCase.TestCase01 - *****  Starting  TestCase04  *****
+21:52:44.908 [main] INFO  testCase.TestCase01 - Click on ZigWheels Logo
+21:52:48.064 [main] INFO  testCase.TestCase01 - Click on Login Button
+21:52:48.735 [main] INFO  testCase.TestCase01 - Click on Google
+21:52:51.419 [main] INFO  testCase.TestCase01 - Now switch to child window
+21:52:51.442 [main] INFO  testCase.TestCase01 - *****  Finished TestCase04 *****
+21:52:53.938 [main] INFO  testCase.TestCase01 - *****  Starting TestCase05 *****
+21:52:53.938 [main] INFO  testCase.TestCase01 - Send random emails into emailinputbox
+21:52:57.259 [main] INFO  testCase.TestCase01 - click on next button
+21:53:02.840 [main] INFO  testCase.TestCase01 - Capturing the error message
+21:53:03.040 [main] INFO  testCase.TestCase01 - *****  Finished TestCase05 *****
