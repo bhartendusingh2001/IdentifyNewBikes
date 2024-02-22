@@ -87,7 +87,7 @@ public class ExcelUtility {
 		workbook=new XSSFWorkbook(fi);
 			
 		if(workbook.getSheetIndex(sheetName)==-1) // If sheet not exists then create new Sheet
-			workbook.createSheet(sheetName);
+		workbook.createSheet(sheetName);
 		sheet=workbook.getSheet(sheetName);
 					
 		if(sheet.getRow(rownum)==null)   // If row not exists then create new Row
